@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    S3_BUCKET: "akalance-demo"
+    S3_BUCKET: "akalancer-demo"
 phases:
   install:
     runtime-versions:
